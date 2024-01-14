@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">DocApp</string>
+    <string name="select">Select Item</string>
+    <string name="name">name = ?</string>
+</resources>
